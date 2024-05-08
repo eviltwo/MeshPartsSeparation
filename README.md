@@ -2,5 +2,5 @@
  
 ## UPM Install
 ```
-https://github.com/eviltwo/PasteNext.git?path=MeshPartsSeparation/Assets/MeshPartsSeparation
+https://github.com/eviltwo/MeshPartsSeparation.git?path=MeshPartsSeparation/Assets/MeshPartsSeparation
 ```
