@@ -1,0 +1,19 @@
+{
+    "name": "com.eviltwo.mesh-parts-separation",
+    "displayName": "Mesh Parts Separation",
+    "version": "1.0.0",             
+    "unity": "2022.3",
+    "description": "Separate mesh.",
+    "author": {
+        "name": "DAIKI(eviltwo)",
+        "url": "https://github.com/eviltwo"
+    },
+
+    "keywords": [
+        "mesh",
+        "separate"
+    ],
+
+    "dependencies": {
+    }
+}

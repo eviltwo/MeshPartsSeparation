@@ -1,0 +1,18 @@
+{
+    "name": "MeshPartsSeparation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1b23a6f3059049d4e859dfedc06a8225"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
